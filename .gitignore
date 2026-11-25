@@ -1,0 +1,20 @@
+# Kickstart ROMs and disk images are copyrighted: never commit them.
+*.rom
+*.ROM
+*.bin
+*.key
+*.adf
+*.ADF
+*.adz
+*.dms
+*.hdf
+*.sdf
+
+# Python bytecode.
+__pycache__/
+*.pyc
+
+# Editor and OS clutter.
+*~
+*.swp
+.DS_Store
